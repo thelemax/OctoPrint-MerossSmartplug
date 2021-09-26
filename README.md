@@ -16,12 +16,12 @@ Work based on OctoPrint-TPLinkSmartplug and python-tuya. This plugin controlls M
 Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    https://github.com/jneilliii/OctoPrint-TPLinkSmartplug/archive/master.zip
+    https://github.com/thelemax/OctoPrint-MerossSmartplug/archive/master.zip
 
 
 ## Configuration
 
-Once installed go into settings and enter the ip address for your TP-Link Smartplug device. Adjust additional settings as needed.
+Once installed go into settings and enter the ip address for your Meross Smartplug device. Adjust additional settings as needed.
 
 ## Settings Explained
 - **IP**
@@ -68,23 +68,6 @@ If you experience issues with this plugin or need assistance please use the issu
 
 Check out my other plugins [here](https://plugins.octoprint.org/by_author/#jneilliii)
 
-### Sponsors
-- Andreas Lindermayr
-- [@Mearman](https://github.com/Mearman)
-- [@TxBillbr](https://github.com/TxBillbr)
-- Gerald Dachs
-- [@TheTuxKeeper](https://github.com/thetuxkeeper)
-- @tideline3d
-- [SimplyPrint](https://simplyprint.dk/)
-- [Andrew Beeman](https://github.com/Kiendeleo)
-- [Calanish](https://github.com/calanish)
-- [Will O](https://github.com/4wrxb)
-- [Lachlan Bell](https://lachy.io/)
-
-## Support My Efforts
-I, jneilliii, programmed this plugin for fun and do my best effort to support those that have issues with it, please return the favor and leave me a tip or become a Patron if you find this plugin helpful and want me to continue future development.
-
-[![Patreon](patreon-with-text-new.png)](https://www.patreon.com/jneilliii) [![paypal](paypal-with-text.png)](https://paypal.me/jneilliii)
-
-<small>No paypal.me? Send funds via PayPal to jneilliii&#64;gmail&#46;com</small>
+## Support jneilliii Efforts
+Most of the code used in this plugin has been written by [jneilliii](https://github.com/jneilliii) so if you want to support someone, you can support his work.
 

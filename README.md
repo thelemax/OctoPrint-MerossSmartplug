@@ -1,4 +1,4 @@
-# OctoPrint-TPLinkSmartplug
+# OctoPrint-MerossSmartplug
 
 ***Warning***: Recent firmware version 1.1.0 for the HS100, HS110 have been reported to break the capability of this plugin to communicate with kasa devices. So far it seems to be only effecting UK version plugs, but could spread to other firmware variants. 
 

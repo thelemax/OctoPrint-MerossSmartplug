@@ -9,8 +9,6 @@ Work based on OctoPrint-TPLinkSmartplug and python-tuya. This plugin controlls M
 
 ![screenshot](plugeditor.png)
 
-![screenshot](screenshot_tab.png)
-
 ## Setup
 
 Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
